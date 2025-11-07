@@ -4,8 +4,7 @@ import os
 
 app = Flask(__name__)
 
-client = OpenAI(api_key="Your_API_KEY")  # <-- Replace with your actual API key
-
+client = OpenAI(api_key="Your_API_Here")  # <-- Replace with your actual API key
 @app.route("/")
 def home():
     return render_template("index.html")
