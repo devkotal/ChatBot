@@ -74,8 +74,7 @@ AI-ChatBot/
 ## 👩‍💻 Credits
 
 **Contributors:**
-- [Ankit Mishra](https://github.com/Coder-Ankit-MCA)
-- [Srijaya Sarkar](https://github.com/SrijayaSarkar)
+- [Tridev Baran Kotal](https://github.com/devkotal/ChatBot)
 
 **Special Thanks:** OpenAI for providing the GPT API
 
@@ -88,5 +87,6 @@ This project is open-source and available under the MIT License.
 
 
    
+
 
 
